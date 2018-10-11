@@ -309,6 +309,75 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 50.000004, y: -183.191, z: 0}
+--- !u!1001 &1378142867
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 400186, guid: afea0db8c110d46b4a1e8be28b404620, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.108
+      objectReference: {fileID: 0}
+    - target: {fileID: 400186, guid: afea0db8c110d46b4a1e8be28b404620, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400186, guid: afea0db8c110d46b4a1e8be28b404620, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.243
+      objectReference: {fileID: 0}
+    - target: {fileID: 400186, guid: afea0db8c110d46b4a1e8be28b404620, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400186, guid: afea0db8c110d46b4a1e8be28b404620, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400186, guid: afea0db8c110d46b4a1e8be28b404620, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400186, guid: afea0db8c110d46b4a1e8be28b404620, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400186, guid: afea0db8c110d46b4a1e8be28b404620, type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 9500000, guid: afea0db8c110d46b4a1e8be28b404620, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 994220b59b61d4a298dce6df25c7338e, type: 2}
+    - target: {fileID: 9500000, guid: afea0db8c110d46b4a1e8be28b404620, type: 3}
+      propertyPath: m_ApplyRootMotion
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 100186, guid: afea0db8c110d46b4a1e8be28b404620, type: 3}
+      propertyPath: m_Name
+      value: CobblerTPosed (2)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: afea0db8c110d46b4a1e8be28b404620, type: 3}
+  m_IsPrefabParent: 0
+--- !u!1 &1378142868 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 100186, guid: afea0db8c110d46b4a1e8be28b404620, type: 3}
+  m_PrefabInternal: {fileID: 1378142867}
+--- !u!114 &1378142869
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1378142868}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c19846ecb2ff43788f69b300e5b377e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1658754504 stripped
 GameObject:
   m_PrefabParentObject: {fileID: 100186, guid: afea0db8c110d46b4a1e8be28b404620, type: 3}
@@ -319,6 +388,75 @@ MonoBehaviour:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1658754504}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c19846ecb2ff43788f69b300e5b377e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!1001 &2111197965
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 400186, guid: afea0db8c110d46b4a1e8be28b404620, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.193
+      objectReference: {fileID: 0}
+    - target: {fileID: 400186, guid: afea0db8c110d46b4a1e8be28b404620, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400186, guid: afea0db8c110d46b4a1e8be28b404620, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.243
+      objectReference: {fileID: 0}
+    - target: {fileID: 400186, guid: afea0db8c110d46b4a1e8be28b404620, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400186, guid: afea0db8c110d46b4a1e8be28b404620, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400186, guid: afea0db8c110d46b4a1e8be28b404620, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400186, guid: afea0db8c110d46b4a1e8be28b404620, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400186, guid: afea0db8c110d46b4a1e8be28b404620, type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 9500000, guid: afea0db8c110d46b4a1e8be28b404620, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 994220b59b61d4a298dce6df25c7338e, type: 2}
+    - target: {fileID: 9500000, guid: afea0db8c110d46b4a1e8be28b404620, type: 3}
+      propertyPath: m_ApplyRootMotion
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 100186, guid: afea0db8c110d46b4a1e8be28b404620, type: 3}
+      propertyPath: m_Name
+      value: CobblerTPosed (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: afea0db8c110d46b4a1e8be28b404620, type: 3}
+  m_IsPrefabParent: 0
+--- !u!1 &2111197966 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 100186, guid: afea0db8c110d46b4a1e8be28b404620, type: 3}
+  m_PrefabInternal: {fileID: 2111197965}
+--- !u!114 &2111197967
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2111197966}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6c19846ecb2ff43788f69b300e5b377e, type: 3}
